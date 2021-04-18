@@ -1,0 +1,10 @@
+tensorflow
+keras
+numpy
+sklearn
+warnings
+wikipedia
+pickle
+fastapi
+uvicorn
+jinja2
